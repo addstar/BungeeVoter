@@ -1,4 +1,4 @@
 name: ${name}
-version: ${version}-b${build.version}
+version: ${pom.version}
 author: add5tar
 main: au.com.addstar.bungeevoter.BungeeVoter
