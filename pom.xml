@@ -53,6 +53,7 @@
         </includes>
       </resource>
     </resources>
+    <sourceDirectory>src</sourceDirectory>
     <pluginManagement>
       <plugins>
         <plugin>
