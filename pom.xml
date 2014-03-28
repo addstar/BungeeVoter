@@ -3,7 +3,6 @@
   <groupId>au.com.addstar</groupId>
   <artifactId>BungeeVoter</artifactId>
   <version>1.0.0</version>
-  <packaging>pom</packaging>
   <name>BungeeVoter</name>
   
   <repositories>
